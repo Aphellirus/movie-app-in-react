@@ -16,4 +16,4 @@ Links with everything used in this project:
 
 
 To get movies from the API, we need to change the "i" parameter to "s", this will query the API for all movies containing the value in the title, in this case, star wars: <br/>
-<img src="https://github.com/Hibukim/movie-app-in-react/blob/main/Demo/api-query-demo.png?raw=true" width="928"/>
+<img src="https://github.com/Hibukim/movie-app-in-react/blob/main/Demo/api-query-demo.png?raw=true"/>
